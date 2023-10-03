@@ -1,0 +1,15 @@
+{
+    "name": "william/files",
+    "autoload": {
+        "psr-4": {
+            "William\\Files\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "willdevps",
+            "email": "willgamer642@gmail.com"
+        }
+    ],
+    "require": {}
+}
